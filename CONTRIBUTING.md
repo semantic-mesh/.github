@@ -1,5 +1,11 @@
 # Contributing to Semantic Mesh
 
+## Language
+
+Use English for all repository content, documentation, examples, code comments,
+commit messages, issues and pull requests. Translate source material from other
+languages faithfully and identify it as a translation.
+
 Start with the main repository's
 [contribution guide](https://github.com/semantic-mesh/semantic-mesh/blob/main/CONTRIBUTING.md).
 Repository-specific guidance takes precedence when present.
